@@ -1,0 +1,32 @@
+/* Custom background image */
+.custom-bg-image {
+  background-image: url('../assets/images/hero-bg-soccer-players.png');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Font family for headings and subtext */
+.custom-heading {
+  color: #FFFFFF;
+}
+
+.custom-text {
+  font-family: 'HvDTrial Brandon Grotesque', sans-serif;
+  font-weight: 500;
+  color: #FFFFFF;
+}
+
+/* Custom button styles */
+.custom-button {
+  font-family: 'HvDTrial Brandon Grotesque', sans-serif;
+  font-weight: 700;
+  font-size: 18px; /* Button text size in px */
+}
+
+/* Responsive font size adjustments */
+@media (max-width: 768px) {
+  
+  .custom-button {
+    font-size: 16px; /* Adjusted button text size for smaller screens */
+  }
+}

@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'HvDTrial Brandon Grotesque';
+  src: url('./assets/fonts/HvDTrial_Brandon_Grotesque_regular.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HvDTrial Brandon Grotesque';
+  src: url('./assets/fonts/HvDTrial_Brandon_Grotesque_regular.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HvDTrial Brandon Grotesque';
+  src: url('./assets/fonts/HvDTrial_Brandon_Grotesque_regular.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HvDTrial Brandon Grotesque';
+  src: url('./assets/fonts/HvDTrial_Brandon_Grotesque_regular.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HvDTrial Brandon Grotesque';
+  src: url('./assets/fonts/HvDTrial_Brandon_Grotesque_regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HvDTrial Brandon Grotesque';
+  src: url('./assets/fonts/HvDTrial_Brandon_Grotesque_regular.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+/* body {
+  font-family: 'HvDTrial Brandon Grotesque', sans-serif;
+} */
+
+h1 {
+  font-family: 'HvDTrial Brandon Grotesque', sans-serif;
+  font-weight: 900;
+}
+
+h2, h3, h4, h5, h6, span {
+  font-family: 'HvDTrial Brandon Grotesque', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'HvDTrial Brandon Grotesque', sans-serif;
+  font-weight: 400;
+}
+
+
+button {
+  cursor: pointer;
+}
